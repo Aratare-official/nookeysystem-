@@ -1,5 +1,5 @@
 print("FUCK MILO THE NIGGER")
-print("MILO'S MILOS IP: 54.191.213.171)
+print("MILO'S MILOS IP: 54.191.213.171")
 
 
 local function u(t)local r=""for i=1,#t do r=r..string.char(t[i]-i%5)end;return r end
